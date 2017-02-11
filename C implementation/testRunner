@@ -1,0 +1,14 @@
+#!/bin/bash
+
+BIN=./format265alt
+DIFFBIN=./diff
+TESTDIR=./testFiles
+OUTDIR=./output
+
+for i in {01..20}
+do
+    echo $i
+    $BIN $TESTDIR/in${i}.txt > $OUTDIR/out${i}.txt
+    diff $OUTDIR/out${i}.txt $TESTDIR/out${i}.txt > $DIFFBIN/diffout${i}.txt
+    diff $OUTDIR/out${i}.txt $TESTDIR/out${i}.txt -q -s
+done

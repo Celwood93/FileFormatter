@@ -1,0 +1,49 @@
+.LW 30
+lol
+.LM +5
+I.
+.LM -5 beep boop im a robot
+
+1. dolphine time in hawaii hurray
+Lots of stuff to do and say
+in hawaii
+hurray?
+i spose
+its good to be in .FT hawaii today?
+
+.LM +5
+II.
+.LM -5 captain crunch banada
+
+.FW 25
+
+2. dolphine time .FT on in hawaii hurray
+Lots of stuff to do and say
+in hawaii
+hurray?
+i spose
+its good to be in hawaii today?
+
+.LS 10
+
+.LM +5
+III.
+.LM -5
+
+3. dolphine time in hawaii hurray
+Lots of stuff .FT on to do and say
+in hawaii
+hurray?
+i spose
+its good to .LM 30 be in hawaii today?
+
+.LM +5
+IIII.
+.LM -5
+
+4. dolphine time in hawaii hurray
+Lots of .LM 5 stuff to do and say
+in hawaii
+hurray?
+i .LM spose
+its good to be in hawaii today?

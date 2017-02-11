@@ -1,0 +1,21 @@
+.LW 30
+
+.LM +5
+I.
+.LM -5
+
+1. dolphine time in hawaii hurray
+Lots of stuff to do and say
+in hawaii
+hurray?
+i spose
+its good to be in hawaii today?
+
+.LM 30
+This will hopefully have a line margin of 10, or else we are in big trubs seeing as 30 would mean no lines, as the command before this is .LM 30
+
+for regerence, here is .LM 10 with the same example
+
+.LM 10
+
+This will hopefully have a line margin of 10, or else we are in big trubs seeing as 30 would mean no lines, as the command before this is .LM 30

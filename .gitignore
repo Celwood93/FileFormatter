@@ -1,0 +1,7 @@
+*.tmp
+*.class
+*.o
+
+# Word temporary
+~$*.doc*
+*.docx
